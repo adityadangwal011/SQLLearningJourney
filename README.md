@@ -19,6 +19,6 @@ This project involves the creation, manipulation, and analysis of a retail sales
    - [Query 8: Top 5 customers by total sales](#query-8-top-5-customers-by-total-sales)
    - [Query 9: Unique customers by category](#query-9-unique-customers-by-category)
    - [Query 10: Orders by time shift](#query-10-orders-by-time-shift)
-4. [Conclusion](#conclusion)
+
 
 ---
